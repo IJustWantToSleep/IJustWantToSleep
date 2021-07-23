@@ -1,4 +1,5 @@
-![welcome](https://user-images.githubusercontent.com/43480643/126794631-fa486f03-2bc7-43e0-a20d-e5ded11822b2.gif)
+##Hi there!
+![git](https://user-images.githubusercontent.com/43480643/126820568-21bcb347-7e82-48ba-a7d1-732752cda72c.gif)
 
 <!--
 **IJustWantToSleep/IJustWantToSleep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
