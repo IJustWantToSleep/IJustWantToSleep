@@ -1,4 +1,3 @@
-##Hi there!
 ![git](https://user-images.githubusercontent.com/43480643/126820568-21bcb347-7e82-48ba-a7d1-732752cda72c.gif)
 
 <!--
